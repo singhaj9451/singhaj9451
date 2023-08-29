@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @singhaj9451
-- 👀 I’m interested in Java Programming.
+- 👋 Hi, I’m SinghAj 😎
+- 👀 I’m interested in Java Programming, DevOps.
 - 🌱 I’m currently learning Java, JavaScript, MERN.
 - 💞️ I’m looking to collaborate on Full-Stack Development
 - 📫 How to reach me ... you can mail me on singhaj9452@gmail.com
